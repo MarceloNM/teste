@@ -1,3 +1,5 @@
 Este é o primeiro e agora o terceiro texto do teste.
 Este é o primeiro e o segundo texto do teste.
 O melhor dos mundos tem as versões todas.
+
+escreve aí qualquer coisa.
